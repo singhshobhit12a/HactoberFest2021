@@ -1,1 +1,4 @@
-print("HactoberFest Started")
+def main():
+  print("HactoberFest Started")
+  
+main()
