@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<title>PORTFOLIO</title>
+    </head>
+<body>
+    <div align="center" style="padding-top: 20px;">
+    <h1>SHORT PORTFOLIO</h1>
+    </div><br><br>
+    <div align="center">
+        <table style="width:1200px;margin-left: 150px;">
+    <tr>
+        <td>
+<div style=" height:325px;width:300px;background-color: blue;">
+    <p align="center" style="padding-top: 150px;"><strong>PHOTO</strong></p>
+</div>
+</td>
+<td>
+    <div style="height:220px; width:530px; border-style: solid;border: width 2px;border-color: black ;padding:50px;">
+    <table style="padding: 30px;">
+        <tr>
+            <td style= "padding: 20px;"><strong>NAME:</strong></td>
+            <td style= "padding: 20px;"><strong>Name here</strong></td>
+        </tr>
+        <tr>
+            <td style="padding: 20px;"><strong>ADDRESS:</strong></td>
+            <td style="padding: 20px;"><strong>India</strong></td>
+        </tr>
+        <tr>
+            <td style="padding: 20px;"><strong>MOBILE</strong></td>
+            <td style="padding: 20px;"><strong>7XXXXXXXXX</strong></td>
+        </tr>
+    </table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<br>
+<div style="height:220px; width:1000px; border-style: solid;border: width 2px;border-color: green ;padding:10px;margin-left: 150px;">
+<p><strong>Click to know more about me:</strong> </p>
+<br><br>
+<table style="width: 1200px;">
+    <tr>
+        <td><a href="https://drive.google.com/file/d/1q2Z_7bE4nYQgaZ6lQISq8T_Od34E08mN/view?usp=sharing"><b>Education</b></a></td>
+
+<td><a href="https://drive.google.com/file/d/1hxChVKkaNxeAmsmabk8VJ_0vwAnRV3jl/view?usp=sharing"><b>Projects</b></a></td>
+  
+<td><a href="https://drive.google.com/file/d/1KYBZQOpXrOd5YWJKMxJYf-8k3Cn0IR4i/view?usp=sharing"><b>Hobbies</b></a></td>
+       
+ <td><a href="https://drive.google.com/file/d/183Yz5lDiIJfc5BX-N32OK1_MwlGWePfa/view?usp=sharing"><b>Feedback</b></a></td>
+    </tr>
+
+    <tr>
+        <td><<<<</td>
+        <td> </td>
+        <td> </td>
+        <td><a href="C:\Users\ims\Desktop\HTML\education.html">>>>></a></td>
+        
+    </tr>
+</table>
+
+</div>
+</body>
+</html>
